@@ -23,5 +23,5 @@ This project was created on macOS Sequoia Version 15.0.1, with
 zig version 0.14.0-dev.1991+33d07f4b6. Zig can be downloaded 
 [Here](https://ziglang.org/download/)
 
-I have not tested this app on anything other than macOS, I connot
+I have not tested this app on anything other than macOS, I cannot
 guarantee it will work on Windows or Linux.
